@@ -28,7 +28,7 @@
     "image": "chatgpt",
     "category": "fullstack",
     "links": {
-      "view": "client-chatgptt.vercel.app",
+      "view": "https://client-chatgptt.vercel.app/",
       "code": "https://github.com/AkiSenseiii/client-chatgptt"
     }
   },
@@ -49,7 +49,7 @@
     "image": "Nftmarket",
     "category": "basicweb",
     "links": {
-      "view": "mp2-ulcollex.vercel.app",
+      "view": "https://mp2-ulcollex.vercel.app/home.html",
       "code": "https://github.com/AkiSenseiii/Mp2-ULCOLLEX"
     }
   },
@@ -60,7 +60,7 @@
     "image": "travel",
     "category": "basicweb",
     "links": {
-      "view": "mp1-travel-website-6v42.vercel.app",
+      "view": "https://mp1-travel-website-6v42.vercel.app/",
       "code": "https://github.com/AkiSenseiii/Mp1-Travel-Website"
     }
   }
