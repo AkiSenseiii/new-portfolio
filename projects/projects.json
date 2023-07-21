@@ -1,0 +1,72 @@
+[
+  
+  {
+    "name": "Me-Time",
+    "desc": "a website from scratch that incorporates the Pomodoro app, the Todo app, a music player, and the YouTube Search API.",
+    "image": "me-time",
+    "category": "basicweb",
+    "links": {
+      "view": "https://me-time-delta.vercel.app/",
+      "code": "https://github.com/AkiSenseiii/me-time"
+    }
+  },
+
+  {
+    "name": "Our Residence ",
+    "desc": "This is a React Js based Real Estate website created as a practice for my Front End skills.",
+    "image": "Homyz",
+    "category": "basicweb",
+    "links": {
+      "view": "https://our-residence.vercel.app/",
+      "code": "https://github.com/AkiSenseiii/our-residence"
+    }
+  },
+
+  {
+    "name": "Chat GPT 2.0 ",
+    "desc": "This is a Full Stack clone website project practicing React hooks, tailwind css, open AI integration.",
+    "image": "chatgpt",
+    "category": "fullstack",
+    "links": {
+      "view": "client-chatgptt.vercel.app",
+      "code": "https://github.com/AkiSenseiii/client-chatgptt"
+    }
+  },
+
+  {
+    "name": "Fitworx",
+    "desc": "This project is a Laravel-based gym website created as part of the KodeGo Full Stack Website Development Bootcamp capstone project.",
+    "image": "fitworxgym",
+    "category": "fullstack",
+    "links": {
+      "view": "http://fitworx-gym.herokuapp.com/",
+      "code": "https://github.com/AdrianVyne/FitworkxGym"
+    }
+  },
+  {
+    "name": "NFT Marketplace",
+    "desc": "This is a Html,CSS,Javascript based NFT marketplace website created as part of the KodeGo Full Stack Website Development Bootcamp Project.",
+    "image": "Nftmarket",
+    "category": "basicweb",
+    "links": {
+      "view": "mp2-ulcollex.vercel.app",
+      "code": "https://github.com/AkiSenseiii/Mp2-ULCOLLEX"
+    }
+  },
+
+  {
+    "name": "Aki Tours ",
+    "desc": "This is a Html,CSS,Javascript based Travel website created as part of the KodeGo Full Stack Website Development Bootcamp Project.",
+    "image": "travel",
+    "category": "basicweb",
+    "links": {
+      "view": "mp1-travel-website-6v42.vercel.app",
+      "code": "https://github.com/AkiSenseiii/Mp1-Travel-Website"
+    }
+  }
+
+  
+
+  
+
+]
