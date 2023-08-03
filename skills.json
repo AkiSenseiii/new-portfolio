@@ -75,12 +75,17 @@
 
     {
         "name": "ASP",
-        "icon": "https://img.icons8.com/color/48/000000/asp"
+        "icon": "https://icons8.com/icon/3756/asp"
     },
 
     {
         "name": "C#",
         "icon": "https://img.icons8.com/color/48/000000/cs"
+    },
+
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python"
     }
 
 
