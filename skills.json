@@ -71,5 +71,17 @@
     {
         "name": "Solidity",
         "icon": "https://img.icons8.com/color/48/000000/solidity"
+    },
+
+    {
+        "name": "ASP",
+        "icon": "https://icons8.com/icon/3756/asp"
+    },
+
+    {
+        "name": "C#",
+        "icon": "https://icons8.com/icon/3852/cs"
     }
+
+
 ]
