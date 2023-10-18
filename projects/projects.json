@@ -63,9 +63,29 @@
       "view": "https://mp1-travel-website-6v42.vercel.app/",
       "code": "https://github.com/AkiSenseiii/Mp1-Travel-Website"
     }
-  }
+  }, 
 
-  
+  {
+    "name": "Inkquisitor ",
+    "desc": "This is a Html,CSS,Javascript based tattoo studio website for my friend.",
+    "image": "inkquisitor",
+    "category": "basicweb",
+    "links": {
+      "view": "https://inkquisitor.vercel.app/",
+      "code": "https://github.com/AkiSenseiii/inkquisitor"
+    }
+  },
+
+  {
+    "name": "Aki Tours ",
+    "desc": "This is a Html,CSS,Javascript based Barbershop studio website for my friend.",
+    "image": "grmwrkz",
+    "category": "basicweb",
+    "links": {
+      "view": "https://grm-wrkz.vercel.app/",
+      "code": "https://github.com/AkiSenseiii/gerome-duma"
+    }
+  }
 
   
 
