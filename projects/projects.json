@@ -85,6 +85,17 @@
       "view": "https://grm-wrkz.vercel.app/",
       "code": "https://github.com/AkiSenseiii/gerome-duma"
     }
+  },
+
+  {
+    "name": "Weather App ",
+    "desc": "This is a Html,CSS,Javascript based Weather app to practice the api request.",
+    "image": "WeatherApp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://weatherapp-prac.vercel.app/",
+      "code": "https://github.com/AkiSenseiii/WeatherAppApi"
+    }
   }
 
   
